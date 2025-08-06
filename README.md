@@ -46,7 +46,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/80KfVYo.gif
+https://imgur.com/a/wc4D06g.gif
 
 
 ## License
